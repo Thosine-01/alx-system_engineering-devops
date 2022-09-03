@@ -1,2 +1,2 @@
-this is the first question of the shell navigation project
-this is the reade file
+#!/bin/bash
+/alx-system_engineering-devops/0x00-shell_basics
