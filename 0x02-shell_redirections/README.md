@@ -1,1 +1,2 @@
-this is another readme file
+#!/bin/bash
+writing a script that print hello, world
